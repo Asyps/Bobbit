@@ -1,0 +1,176 @@
+{
+
+    "coming_soon": "This thing is COMING SOON - u forgot to make smth for this thing how dare u",
+    
+    "heal": "Našel jsi léčivý lektvar!",
+    "coin": "Našel jsi tento počet mincí: ",
+    "klacek": "Našel jsi klacek (poškození 1)!",
+    "palice": "Našel jsi palici (poškození 2)!",
+    
+    "battle": "Nadešel čas souboje!",
+    "battle_victory": "Zvítězil jsi!",
+    "round": "Kolo číslo: ",
+    "your_turn": "Jsi na tahu!",
+    "actions": "Máš tento počet akcí: ",
+    "enemy_turn": "Nepřítel je na tahu!",
+    "enemy_actions": "Nepřítel má tento počet akcí: ",
+    "attack_success": "Udělil jsi nepříteli poškození: ",
+    "attack_failure": "Nepřítel se útoku vyhnul!",
+    "cant_heal": "Na vyléčení nemáš dostatek lektvarů, neplýtvej časem!",
+    "you_healed": "Doléčil sis nějaké životy: ", 
+    "distraction_success": "Podařilo se ti zmást nepřítele, příští tah bude mít o 1 akci méně.",
+    "distraction_fail": "Nepřítel se zmást nenechal.",
+    "escape_success": "Podařilo se ti utéct bez úhony.",
+    "escape_fail": "Nepřítel ti při útěku udělil nějaké poškození: ",
+    "block_fail": "Nepodařilo se ti vyhnout a nepřítel ti udělil toto poškození: ",
+    "block_success": "Útok odražen!",
+    "enemy_attack": "Nepřítel ti udělil poškození: ",
+    "enemy_heal": "Nepřítel si doléčil nějaké životy: ",
+    "battle_choose": {
+        "greet": "Vyber si akci.",
+        "ask": "Akce:",
+
+        "útok": "Pokusíš se zaútočit.",
+        "vyléčení": "Zkusíš se vyléčit.",
+        "zmatení": "Zkusíš nepřítele zmást.",
+        "útěk": "Vezmeš nohy na ramena."
+    },
+    "block_enemy": {
+        "greet": "Nepřítel na tebe útočí.",
+        "ask": "Chceš se pokusit vyhnout (a mít o jednu akci méně v příštím tahu)?",
+
+        "ano": "Pokusíš se vyhnout útoku.",
+        "ne": "Necháš se trefit."
+    },
+
+    "dead": "Umřel jsi. Pokud chceš hrát znovu, zapni znova program.",
+
+    "gate_locked": "Tato brána je zamčená. Najdi klíč, aby ti ji vrátný odemkl.",
+    "gate_unlocked": "Vrátný ti odemkl bránu.",
+    "gate_key_collect": "Našel jsi klíč od brány! Dej ho vrátnému.",
+    "gatekeeper_locked": "Vrátný: Dobrý den, Bobbite. Vidím, že se chystáš vyjít z města. Bohužel jsem si zapoměl klíč v domku. Jsem už starý klíčník, přineseš ho? Děkuji předem.",
+    "gatekeeper_unlocked": "Vrátný: Skvělé, našel jsi mi můj klíč! Teď můžeš projít bránou!",
+
+    "Vorin_first_meet": {
+        "greet": "Vorin: Zdravím Bobbite, jmenuji se Vorin, a jsem z trpaslík z dálného kraje zvaný Erehor, a chtěl bych si navrátit právo na Erehorský trůn.",
+        "ask": "Pomůžeš mi?",
+        
+        "ano": "Skvěle! Sejdeme se venku za bránou.",
+        "ne": "Ale já tě fakt potřebuju pro úspěch! Až si to rozmyslíš, řekni."
+    },
+
+    "old_friend_village": "Starý přítel: Zdravím tě, příteli. Jak se máš?",
+
+    "wolf_fight": "Vlk: Vhrrhrr (Dostanu tě!)",
+    "villager_scared_of_wolf": "Vesničan: Ahhhhhhhh pomóc, pomóc, vlk! Útočí vlk, přelezl bránu! Najdi si zbraň, pokud ho chceš porazit!",
+    "villager_thankful": "Vesničan: Uff, děkuji ti.",
+
+    "vorin_gangdalf_explanation_1": "Gangdalf: Dobrý den, Bobbite. Já jsem Gangdalf, a pomáhám Vorinovi.",
+    "vorin_gangdalf_explanation_2": "Vorin: Takže, půlčíku, teď když jsme tady, můžeme si popovídat.",
+    "vorin_gangdalf_explanation_3": "Gangdalf: Ale rychle. Nemáme času nazbyt.",
+    "vorin_gangdalf_explanation_4": "Vorin: Tak tě zasvětíme.",
+    "vorin_gangdalf_explanation": {
+        "greet": "Vorin: Ptej se.",
+        "ask": "Otázky:",
+
+        "Jak ses dostal ven z vesnice?": "Vorin: Přelezl jsem zeď. Má jen půl metru.",
+        "Kdo jste, Gangdalfe?": "Gangdalf: Jsem čaroděj.",
+        "Co je to za misi?": "Vorin: Před 60 lety mé předky v hoře napadl drak, a usadil se tam. Spí na našem zlatě, a zabil mého praděda. Proto jsem se rozhodl, že si ho vezmu zpátky.",
+        "Proč bych vám měl pomáhat?": "Vorin: Dostaneš zlato a slávu.",
+        "Jakej je plán?": "Gangdalf: Musíme nejdřív dojít do roklinky, kde nám Elolnd přeloží znaky na téhle mapě, kterou jsem našel. Jen elfové jeho moudrosti toto písmo přečtou. Poté uvidíme, co zjistíme."
+    },
+    "vorin_gangdalf_explanation_5": "Gangdalf: Tak jdeme. Půjdeme napřed. Mimochodem, pokud stiskneš i, tak uvidíš své statistiky a itemy.",
+    "vorin_gangdalf_explanation_6": "Vorin: Dávej pozor, sejdeme se u {insert_where}.",
+
+    "vorin_gangdalf_crossroad_1": "Gangdalf: Skvěle, už jsi tady.",
+    "vorin_gangdalf_crossroad_2": "Vorin: Takže, náš plán je dostat se do roklinky. Můžeme tam ale jít dvěma cestama.",
+    "vorin_gangdalf_crossroad_3": "Gangdalf: Já bych vám radil jít přes elfy. Sice jsou ostražití, ale určitě nám pomohou. Zato v horách žijí skřeti, ti vás rozdrásají, jen co vás spatří.",
+    "vorin_gangdalf_crossroad_4": "Gangdalf: Tak se rozhodněte. Musím si něco vyřídit. Sejdeme se v roklince.",
+    "vorin_gangdalf_crossroad_5": "Vorin: Následuju tě, Bobbite.",
+
+    "crossroad_sign": "Cedule:\n\nNahoru: Hory \nDoleva: Bobbitín\nDolů: Les",
+
+    "gum_meet": {
+        "greet": "Gum: Gum, gum, copak to děláme v mé jesškyňce, mijášku?",
+        "ask": "Zabloudili jšme mijášku?",
+
+        "ano": "Já nikoho neviděl uš dlou, dlouho, gum. Pjoč rušíš můj klídešek?",
+        "ne": "Mijášku! Gum, on je tu našchvál!"
+    },
+    "gum_dialog_1": "Ty: Pomůžeš mi ven?",
+    "gum_dialog_2": "Gum: Ne. Mám pro tebe dárešek, gum. Jen pro něj dojdu.",
+    "gum_dialog_3": "Ty: Máš rád hádanky?",
+    "gum_dialog_4": "Gum: Ano, mijášku. Měj jšem je móš rád. (Gum prohledává doupě)",
+    "gum_searching": "Gum: Mijášku? (Prohledává jeskyni) Mijášku! Tys ho ukradl. Zabiju tě!",
+    "gum_dialog_5": "Ty: Budeme si dávat hádanky. Kdo první nebude vědět, prohraje. Když vyhraju, pomůžeš mi ven.",
+    "gum_dialog_6": "(Gum se při hledání zarazil) Gum: A kdyžšš ne, zabiju tě! Jo, dobže mijášku.",
+    "gum_riddle_1": {
+        "greet": "Gum: Je to ve vodiššce, vrtí se, ulišnice, kdyš škonší ve bžíšce, dobrá je vejice!",
+        "ask": "Co je ťo?",
+
+        "Je to ryba.": "Aňo, mijoušká ribiška!",
+        "No to je přece klacek!": "Špatně, mijášku!",
+        "Přece bota.": "Ne, špatně!"
+    },
+    "gum_riddle_2": {
+        "greet": "Gum: Ať se snažíš, jak se šnažíš, uniknout mu nedokášeš. Čtyši nohy ve dvě žmění, gum, a pak ve tši, a pak v žádnou.",
+        "ask": "Co je to?",
+
+        "Jasně že sekera.": "Ne ne ne! Špatně mijášku!",
+        "Že by mor?": "Kdepak, gum!",
+        "To bude... Čas!": "No ano, čaš! Gum."
+    },
+    "gum_riddle_3": {
+        "greet": "Gum: Je tam žima, je tam tma. Příroďa ji vytvožila, gum, po letech a štaletích.",
+        "ask": "Co je to?",
+
+        "'Je to spižírna.": "Ne! Bohužel, mijášku!",
+        "Jeskyně?": "Ano, gum!",
+        "Sklep! Jasnej sklep.": "Ne!"
+    },
+    "player_riddle": {
+        "greet": "Ty: Takže teď já.",
+        "ask": "Gum: Tak říkej. Gum.",
+
+        "Je to na nebi, když je den. Radost přináší, když jdeš ven. Co je to?": "Sluníško. Ne, ne. Nenávidím ho! Gum!",
+        "Je to ze dřeva, pevný jak buk, položíš na to třeba i luk. Co je to?": "To bude štůl, ha!",
+        "Co to mám v kapse?": "Vrr, to není fér! (uvědomí si, že jsi vzal prsten) Mijášku? Že tam máš mijáška! Žabiju tě!"
+    },
+    "gum_question_failed": "Zkazils to. Gum. Teď tě zabiju, zloději!",
+    "gum_escape": "Gum vyčerpán soubojem utíká, nechtěně ti tím ukazuje cestu ven. Následuješ ho. Z nějakého důvodu tě skřeti nezpozorují, i když jdeš přímo kolem nich. Unikneš.",
+
+    "gone_crazy": "Zešílel jsi. Prsten tě ovládl. Pokud chceš hrát znovu, zapni znova program.",
+
+    
+    "dragon_sneak_fail": "Drak si tě všiml, a než jsi cokoliv udělal, sežehl tě na popel. Pokud chceš hrát znovu, zapni znova program.",
+    "dragon_sneak": "(drak se probudil) Drak: Mám hlad, asi za chvíli půjdu na lov.",
+    "dragon_fight_1": "Draku! ",
+    "dragon_fight_2": "Drak: Můj oheň! Je teď vyhaslý! Ty! Zabiju tě.",
+
+    "elven_king_dialog_1": "Vorin: Půjdu se jim představit, zůstaň tady.",
+    "elven_king_dialog_2": "Vorin k nim došel. Elfové ho ihned zatkli.",
+    "elven_king_dialog_3": "Král: Kdo se opovážil vstoupit do mé říše!",
+    "elven_king_dialog_4": "Vorin: Dobrý den, vaše veličenstvo. Jmenuji se Vorin. Já se popravdě domníval, že k nám budete přátelští.",
+    "elven_king_dialog_5": "Král: Bohužel, od dob, kdy začali útočit skřeti, vydal můj otec zákon, který zakazuje cizincům vstup do země, a zákon je zákon. Budete muset do vězení.",
+    "elven_king_dialog_6": "A odešli k městu.",
+    
+    "elolnd_meet_1": "Elolnd: Vítej! Já jsem Elolnd, a ty?",
+    "elolnd_meet_2": "Ty: Dobrý den, jsem Bobbit. Přišel jsem z Bobbitína, a měl jsem i společníky, ale Gangdalf odešel a Vorina zajali. A Vorin měl u sebe tu mapu! Ale ne.",
+    "elolnd_meet_3": "Elolnd: Gangdalf mi o vašem poslání řekl. Pojďme si ale popovídat dovnitř.",
+    "elolnd_meet_4": "Elolnd: Takže, mapu vám přečtu, ale nejdřív ji musíte přinést. Má vize mi řekla, že budete muset splnit dvě zkoušky, než budete moci jít k drakovi. Zdá se, že tohle je jedna z nich.",
+    "elolnd_meet_5": "Ty: Co mám dělat?",
+    "elolnd_meet_6": "Elolnd: Odpovím ti na pár otázek, ale musíš se rozhodnout sám, co udělat.",
+    "elolnd_meet_ask": {
+        "greet": "Elolnd: Ptej se.",
+        "ask": "Otázky:",
+
+        "Jak se k němu mám dostat?": "Přímo jít nemůžeš, elfové tě viděli utíkat a zvýšili stráž směrem sem. Ale mohl bys to zkusit přes hory.",
+        "Co mám udělat, až se k němu dostanu?": "Má vize říká, že odpověď nalezneš po cestě.",
+        "Nevíte, kam šel Gangdalf?": "Na bílou radu. Řeší tam důležité věci."
+    },
+    "elolnd_meet_end": "Dám ti ještě nějaké lektvary na cestu, a můžeš si další nakoupit. Tak nashledanou, opatruj se!",
+
+    "orc_fight": "Skřet: Zabiju tě!",
+    "orc_scared": "Zkusil jsi vykouknout za roh, a viděl jsi skupinu skřetů. Se strachem uděláš krok zpět.",
+    "orc_scared_2": "Vykoukl jsi za roh. Skupina skřetů tam furt je. A řekneš si, že tvá cesta stejně vede jinudy."
+}
